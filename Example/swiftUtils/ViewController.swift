@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import swiftUtils
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        var cidade = Cidade(id:"",name:"asdf")
+        
+        
     }
 
     override func didReceiveMemoryWarning() {

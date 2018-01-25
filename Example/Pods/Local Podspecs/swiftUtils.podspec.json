@@ -1,0 +1,22 @@
+{
+  "name": "swiftUtils",
+  "version": "0.1.0",
+  "summary": "Lib de teste para criação de pod",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andersonrsoares/swiftUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andersonrsoares": "anderson.r.soares@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andersonrsoares/swiftUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "swiftUtils/Classes/**/*"
+}
