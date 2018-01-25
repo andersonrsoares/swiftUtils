@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'swiftUtils'
+  s.name             = 'ASswiftUtils'
   s.version          = '0.1.0'
   s.summary          = 'Lib com funções uteis para swift'
 
