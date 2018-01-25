@@ -1,9 +1,9 @@
 # swiftUtils
 
 [![CI Status](http://img.shields.io/travis/andersonrsoares/swiftUtils.svg?style=flat)](https://travis-ci.org/andersonrsoares/swiftUtils)
-[![Version](https://img.shields.io/cocoapods/v/swiftUtils.svg?style=flat)](http://cocoapods.org/pods/swiftUtils)
-[![License](https://img.shields.io/cocoapods/l/swiftUtils.svg?style=flat)](http://cocoapods.org/pods/swiftUtils)
-[![Platform](https://img.shields.io/cocoapods/p/swiftUtils.svg?style=flat)](http://cocoapods.org/pods/swiftUtils)
+[![Version](https://img.shields.io/cocoapods/v/ASswiftUtils.svg?style=flat)](http://cocoapods.org/pods/ASswiftUtils)
+[![License](https://img.shields.io/cocoapods/l/ASswiftUtilssvg?style=flat)](http://cocoapods.org/pods/ASswiftUtils)
+[![Platform](https://img.shields.io/cocoapods/p/ASswiftUtils.svg?style=flat)](http://cocoapods.org/pods/ASswiftUtils)
 
 ## Example
 
