@@ -22,7 +22,7 @@ pod 'swiftUtils'
 
 ## Author
 
-andersonrsoares, anderson.r.soares@gmail.com
+Anderson Soares
 
 ## License
 
