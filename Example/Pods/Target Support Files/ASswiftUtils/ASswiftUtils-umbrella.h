@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double swiftUtilsVersionNumber;
-FOUNDATION_EXPORT const unsigned char swiftUtilsVersionString[];
+FOUNDATION_EXPORT double ASswiftUtilsVersionNumber;
+FOUNDATION_EXPORT const unsigned char ASswiftUtilsVersionString[];
 

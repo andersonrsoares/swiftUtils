@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## swiftUtils
+## ASswiftUtils
 
 Copyright (c) 2018 andersonrsoares <anderson.r.soares@gmail.com>
 

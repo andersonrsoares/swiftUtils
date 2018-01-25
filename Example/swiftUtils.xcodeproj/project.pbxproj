@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		04DE24B337FABD00505A4EE4 /* Pods_swiftUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swiftUtils_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		08A3291A0C5C93EAC0803506 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		08A3291A0C5C93EAC0803506 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2AD74400C45443492ECB0273 /* Pods-swiftUtils_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftUtils_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-swiftUtils_Tests/Pods-swiftUtils_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		346DAB3AE6B82F7732025C4B /* Pods_swiftUtils_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swiftUtils_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		59B0DD9926BF8A2D69AE9E85 /* Pods-swiftUtils_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftUtils_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-swiftUtils_Tests/Pods-swiftUtils_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -43,10 +43,10 @@
 		607FACE51AFB9204008FA782 /* swiftUtils_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftUtils_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		88BF2206D897D5DD6188EBA9 /* swiftUtils.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = swiftUtils.podspec; path = ../swiftUtils.podspec; sourceTree = "<group>"; };
+		88BF2206D897D5DD6188EBA9 /* ASswiftUtils.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ASswiftUtils.podspec; path = ../ASswiftUtils.podspec; sourceTree = "<group>"; };
 		993AA70E6742738F0366CB32 /* Pods-swiftUtils_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftUtils_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-swiftUtils_Example/Pods-swiftUtils_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C3516A3CABF86145CF140927 /* Pods-swiftUtils_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-swiftUtils_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-swiftUtils_Example/Pods-swiftUtils_Example.release.xcconfig"; sourceTree = "<group>"; };
-		D8925795934D712AA80772F6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D8925795934D712AA80772F6 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,7 +141,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				88BF2206D897D5DD6188EBA9 /* swiftUtils.podspec */,
+				88BF2206D897D5DD6188EBA9 /* ASswiftUtils.podspec */,
 				08A3291A0C5C93EAC0803506 /* README.md */,
 				D8925795934D712AA80772F6 /* LICENSE */,
 			);
@@ -307,11 +307,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-swiftUtils_Example/Pods-swiftUtils_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/swiftUtils/swiftUtils.framework",
+				"${BUILT_PRODUCTS_DIR}/ASswiftUtils/ASswiftUtils.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/swiftUtils.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ASswiftUtils.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
