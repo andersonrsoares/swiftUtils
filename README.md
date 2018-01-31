@@ -1,6 +1,5 @@
 # swiftUtils
 
-[![CI Status](http://img.shields.io/travis/andersonrsoares/swiftUtils.svg?style=flat)](https://travis-ci.org/andersonrsoares/swiftUtils)
 [![Version](https://img.shields.io/cocoapods/v/ASswiftUtils.svg?style=flat)](http://cocoapods.org/pods/ASswiftUtils)
 [![License](https://img.shields.io/cocoapods/l/ASswiftUtils.svg?style=flat)](http://cocoapods.org/pods/ASswiftUtils)
 [![Platform](https://img.shields.io/cocoapods/p/ASswiftUtils.svg?style=flat)](http://cocoapods.org/pods/ASswiftUtils)
