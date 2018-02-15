@@ -13,6 +13,7 @@
 		4E1DD8CA20228E0A002F1768 /* Extension+UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1DD8C820228E0A002F1768 /* Extension+UITextField.swift */; };
 		4E1DD8CB20228E0A002F1768 /* Extension+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1DD8C920228E0A002F1768 /* Extension+String.swift */; };
 		4E1DD8CD20228E27002F1768 /* Extension+UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1DD8CC20228E27002F1768 /* Extension+UIViewController.swift */; };
+		4E2CE40120364754008C8090 /* OfflineSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2CE40020364754008C8090 /* OfflineSettings.swift */; };
 		4E8B21B72022866300849B69 /* MimeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8B21B62022866300849B69 /* MimeType.swift */; };
 		5BA792284D9ECBBB2955DBE5CE015E9E /* ASswiftUtils-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B6F32CE9F3FCDC0DF7C09AD6A9E0AE3C /* ASswiftUtils-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EC19FA1CD51C00E6B93BBE8B40AB135 /* ASswiftUtils-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 21C679606722FAA497DC503443940923 /* ASswiftUtils-dummy.m */; };
@@ -44,6 +45,7 @@
 		4E1DD8C820228E0A002F1768 /* Extension+UITextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Extension+UITextField.swift"; path = "swiftUtils/Classes/Extension+UITextField.swift"; sourceTree = "<group>"; };
 		4E1DD8C920228E0A002F1768 /* Extension+String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Extension+String.swift"; path = "swiftUtils/Classes/Extension+String.swift"; sourceTree = "<group>"; };
 		4E1DD8CC20228E27002F1768 /* Extension+UIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Extension+UIViewController.swift"; path = "swiftUtils/Classes/Extension+UIViewController.swift"; sourceTree = "<group>"; };
+		4E2CE40020364754008C8090 /* OfflineSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfflineSettings.swift; sourceTree = "<group>"; };
 		4E8B21B62022866300849B69 /* MimeType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MimeType.swift; sourceTree = "<group>"; };
 		626D63D49D204D85D49FA0ABA83409E1 /* Pods-swiftUtils_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-swiftUtils_Tests-umbrella.h"; sourceTree = "<group>"; };
 		6329790EEE318503BE1FC874DAA0D982 /* Pods_swiftUtils_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_swiftUtils_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -173,6 +175,7 @@
 				73537F210A83A6C683538CC6624BD895 /* Extension+UIView.swift */,
 				4E8B21B62022866300849B69 /* MimeType.swift */,
 				069D6C8E8DF05809727127EC0DECF81A /* Support Files */,
+				4E2CE40020364754008C8090 /* OfflineSettings.swift */,
 			);
 			name = ASswiftUtils;
 			path = ../..;
@@ -348,6 +351,7 @@
 				6EC19FA1CD51C00E6B93BBE8B40AB135 /* ASswiftUtils-dummy.m in Sources */,
 				4E1DD8CA20228E0A002F1768 /* Extension+UITextField.swift in Sources */,
 				F1436A0EAE1339F822E7273C2A702347 /* Extension+UIColor.swift in Sources */,
+				4E2CE40120364754008C8090 /* OfflineSettings.swift in Sources */,
 				17D386BC138A8EBC3F357796AC6A9D34 /* Extension+UIView.swift in Sources */,
 				4E1DD8CD20228E27002F1768 /* Extension+UIViewController.swift in Sources */,
 				4E8B21B72022866300849B69 /* MimeType.swift in Sources */,
